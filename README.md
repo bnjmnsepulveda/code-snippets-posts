@@ -4,4 +4,4 @@
 
 ### Filtro dinámico para listas simples
 cuando quieres filtrar de forma dinamica un array de javascript hechale una mirada a este pequeño snip 
-[Ejemplo en javascript](dynamic-array-filter/README.md)
+[Ejemplo en javascript](javascript/dynamic-array-filter/README.md)
