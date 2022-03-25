@@ -1,4 +1,7 @@
-# Code snippet for posting programming tips 😎 
+# Post sobre arquitectura de software y algunos truquillos de programación 😎 
 
-First post 
- * dynamic array filter for javascript
+## Post n° 1 
+
+### Filtro dinámico para listas simples
+cuando quieres filtrar de forma dinamica un array de javascript hechale una mirada a este pequeño snip 
+[Ejemplo en javascript](dynamic-array-filter/README.md)

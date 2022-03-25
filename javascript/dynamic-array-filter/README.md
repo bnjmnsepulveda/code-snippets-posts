@@ -243,8 +243,8 @@ La parte importante del filtrado dinámico es el siguiente código en donde nues
 ```tsx
 const craziestPersons = searcheablePersons.findByFilter({
     isCrazy: true,
-		job: 'Witi programmer',
-		withHobby: 'gamer'
+	job: 'Witi programmer',
+	withHobby: 'gamer'
 })
 ```
 
